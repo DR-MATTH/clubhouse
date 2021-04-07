@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clubhouse/static/css/main.142f415d.chunk.css",
+    "main.css": "/clubhouse/static/css/main.c4a77332.chunk.css",
     "main.js": "/clubhouse/static/js/main.3bd12b90.chunk.js",
     "main.js.map": "/clubhouse/static/js/main.3bd12b90.chunk.js.map",
     "runtime-main.js": "/clubhouse/static/js/runtime-main.4deeb95e.js",
@@ -10,13 +10,13 @@
     "static/js/3.91d6bd72.chunk.js": "/clubhouse/static/js/3.91d6bd72.chunk.js",
     "static/js/3.91d6bd72.chunk.js.map": "/clubhouse/static/js/3.91d6bd72.chunk.js.map",
     "index.html": "/clubhouse/index.html",
-    "static/css/main.142f415d.chunk.css.map": "/clubhouse/static/css/main.142f415d.chunk.css.map",
+    "static/css/main.c4a77332.chunk.css.map": "/clubhouse/static/css/main.c4a77332.chunk.css.map",
     "static/js/2.96495a9a.chunk.js.LICENSE.txt": "/clubhouse/static/js/2.96495a9a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4deeb95e.js",
     "static/js/2.96495a9a.chunk.js",
-    "static/css/main.142f415d.chunk.css",
+    "static/css/main.c4a77332.chunk.css",
     "static/js/main.3bd12b90.chunk.js"
   ]
 }
